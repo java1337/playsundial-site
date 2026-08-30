@@ -41,10 +41,12 @@
     />
 
     <!-- Content-Security-Policy (GitHub Pages can't set headers, so meta tag)
-         NOTE: whitelist GA4 + PeerJS. Review after any big dependency change. -->
+         NOTE: whitelist GA4 + PeerJS. Review after any big dependency change.
+         frame-ancestors is omitted: it only works in a header, never a <meta> tag,
+         so including it just triggers a console warning (GitHub Pages sends no headers). -->
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; connect-src 'self' wss: https://*.googleapis.com https://*.google-analytics.com https://*.googletagmanager.com; img-src 'self' data: https://www.google-analytics.com; style-src 'self' 'unsafe-inline'; font-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'"
+      content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; connect-src 'self' wss: https://*.googleapis.com https://*.google-analytics.com https://*.googletagmanager.com; img-src 'self' data: https://www.google-analytics.com; style-src 'self' 'unsafe-inline'; font-src 'self' data:; object-src 'none'; base-uri 'self'"
     />
 
     <!-- Google Analytics 4 + Consent Mode v2
