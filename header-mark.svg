@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 72" width="360" height="72" role="img" aria-label="Sundial">
+  <!-- Sundial mark -->
+  <circle cx="40" cy="36" r="26" fill="#123329" stroke="#375a49" stroke-width="5"/>
+  <line x1="24" y1="50" x2="56" y2="28" stroke="#f5c648" stroke-width="11" stroke-linecap="round"/>
+  <line x1="29" y1="54" x2="58" y2="32" stroke="#0a2018" stroke-width="12" stroke-linecap="round"/>
+  <!-- Wordmark -->
+  <text x="80" y="47" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="800" fill="#f5c648" letter-spacing="1">Sundial</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" width="760" height="180" role="img" aria-label="Sundial — the 4-player partnership card game">
+  <!-- Felt panel -->
+  <rect x="8" y="8" width="744" height="164" rx="28" fill="#16382c" stroke="#2a5141" stroke-width="3"/>
+  <!-- Sundial mark -->
+  <circle cx="96" cy="90" r="62" fill="#123329" stroke="#375a49" stroke-width="8"/>
+  <line x1="56" y1="120" x2="136" y2="68" stroke="#f5c648" stroke-width="26" stroke-linecap="round"/>
+  <line x1="70" y1="132" x2="142" y2="80" stroke="#0a2018" stroke-width="27" stroke-linecap="round"/>
+  <!-- Wordmark -->
+  <text x="188" y="86" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="800" fill="#f5c648" letter-spacing="2">Sundial</text>
+  <!-- Tagline -->
+  <text x="192" y="128" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="500" fill="#9db89f" letter-spacing="1">Four players · Two teams · Thirteen tricks</text>
+  <!-- Accent suits -->
+  <text x="660" y="96" font-family="system-ui, sans-serif" font-size="40" fill="#3f7cbf" text-anchor="middle">♠</text>
+  <text x="712" y="96" font-family="system-ui, sans-serif" font-size="40" fill="#e07055" text-anchor="middle">♥</text>
+</svg>
