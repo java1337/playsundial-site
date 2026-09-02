@@ -1,0 +1,25 @@
+# Sundial — the 4-player partnership card game
+
+> Sundial (formerly Partnership Trump) is a free, browser-based four-player partnership trick-taking card game. Two teams of two play thirteen tricks with a standard 52-card deck; the team that takes 7 or more tricks wins the round. Play solo against bots, hot-seat with friends on one device, or host a room to play across devices.
+
+## Game rules
+
+- Four players, two teams of two. Partners sit opposite each other; you never see your partner's hand.
+- Ace is high, 2 is low. The trump suit beats every other suit, even a 2 trumping an Ace.
+- Player 1 names the trump suit from their first five cards.
+- The dealer leads the first trick; the winner of each trick leads the next.
+- Players must follow suit if they hold a card of the led suit; otherwise they may play any card, including trump.
+- Play all 13 tricks. The deal rotates left after each round.
+
+## How to play
+
+- Solo: play against 3 bots, or choose which seats are human for hot-seat play.
+- Start a game: host a room and share the invite link or room code.
+- Join a game: open the invite link or type the room code, then choose your seat.
+
+## Key pages
+
+- [How to Play](https://playsundial.com/#how-to-play)
+- [About](https://playsundial.com/#about)
+- [Privacy Policy](https://playsundial.com/#privacy)
+- [Terms of Use](https://playsundial.com/#terms)
