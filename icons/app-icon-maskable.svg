@@ -3,4 +3,9 @@
   <circle cx="512" cy="512" r="210" fill="#16382c" stroke="#2a5141" stroke-width="8"/>
   <line x1="435" y1="590" x2="590" y2="435" stroke="#f5c648" stroke-width="56" stroke-linecap="round"/>
   <line x1="483" y1="633" x2="605" y2="511" stroke="#0a2018" stroke-width="60" stroke-linecap="round"/>
+  <!-- Suit symbols -->
+  <text x="512" y="212" font-family="system-ui, sans-serif" font-size="60" fill="#111" text-anchor="middle" dominant-baseline="central">♠</text>
+  <text x="812" y="512" font-family="system-ui, sans-serif" font-size="60" fill="#e4573d" text-anchor="middle" dominant-baseline="central">♥</text>
+  <text x="512" y="812" font-family="system-ui, sans-serif" font-size="60" fill="#e4573d" text-anchor="middle" dominant-baseline="central">♦</text>
+  <text x="212" y="512" font-family="system-ui, sans-serif" font-size="60" fill="#111" text-anchor="middle" dominant-baseline="central">♣</text>
 </svg>
